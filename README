@@ -1,0 +1,17 @@
+#Este es una aplicacion en la que se consume una API de GifExpert app
+
+Esta construida con React js
+
+para construir los modulos 
+
+```
+npm install
+
+```
+
+para ejecutar
+
+```
+npm start 
+
+```

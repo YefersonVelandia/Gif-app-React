@@ -1,0 +1,19 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: bisque;
+}
+
+body{
+  padding: 60px;
+}
+
+input {
+  border-radius: 6px;
+  background-color: tomato;
+  color: white;
+  border: 0;
+  font-size: 1.3rem;
+  width: 100%;
+  outline: none;
+ 
+}
